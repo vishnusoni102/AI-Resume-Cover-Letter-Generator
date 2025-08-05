@@ -35,9 +35,3 @@ To use the application:
 
 # Contributing
 We welcome contributions to this project! Please read the CONTRIBUTING.md file for guidelines on how to submit contributions.
-
-# Credits
-This project is developed by **M.G.Jillani Mughal at Jillani SoftTech**. Special thanks to all contributors and users.
-
-# License
-This project is licensed under the **MIT License**. See the LICENSE file for more details.
